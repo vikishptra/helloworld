@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: const MyHomePage(title: "commit'),
+      home: const MyHomePage(title: "VICKY"),
     );
   }
 }
@@ -96,7 +96,7 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             const Text(
-              'HELLO WORLD',
+              'HELLO WORL',
             ),
           ],
         ),
